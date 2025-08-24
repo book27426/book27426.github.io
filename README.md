@@ -26,7 +26,7 @@ We find A negative correlation exists between birth rate and infant mortality ra
 ### Database Programming Laboratory  : Commart Event Redemption Management System 
 [Slide](https://www.canva.com/design/DAGVDMWG7lw/Fn3qbUUPdlrgzJ8QqYDSZw/edit)
 
-Used **PHP**, **CSS** and **SQL** to build Commart event redemption management system. I need to design database structure and do back-end. I found some problems in the database system, but the biggest mistake was the lack of SQL injection protection.
+Used **PHP**, **CSS** and **SQL** to build Commart event redemption management system. The project involved designing the database structure as well as developing both the front-end and back-end. During development, I identified several issues in the database system, with the most critical being the lack of SQL injection protection.
 
 
 ### Database systems : Analysis and Design to Database Implementation 
