@@ -10,7 +10,7 @@
 [Report](https://drive.google.com/file/d/1d3qsqG-paj-8aI3krtmD9eDDzkxkfcw4/view?usp=sharing) 
 [Slide](https://www.canva.com/design/DAGnlDlUZEE/VP4JpOKzlf0-8JXIF7XeeQ/edit?)
 
-We strive to enhance efficient data management, seamless information exchange, and improved clinical decision-making. I used **Python** to build prototype and deployed it on the **AWS** cloud. In this project I encountered obstacles in data encrytion, verifycation, store data in blockchain. However, the prototype failed because I could not re-encrytion cryphertext of AES to cryphertext of HE.
+We strive to enhance efficient data management, seamless information exchange, and improved clinical decision-making. I used **Python** to build prototype and deployed it on the **AWS** cloud. In this project I encountered obstacles in data encrytion, verifycation, store data in blockchain. However, the prototype failed because I could not proxy re-encryption cryphertext of AES to cryphertext of HE.
 
 ### Software Engineering  : Software Requirements Specification for Art-Horizon
 [Report](https://drive.google.com/file/d/1iRKjNUw23O-g4FHty5vLnIuvr4xVuOcf/view)
