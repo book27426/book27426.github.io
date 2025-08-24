@@ -20,7 +20,7 @@ Designing an online art marketplace website provides a digital platform that ena
 ### Scientific Computing : Analyzing the Impact of Economic Prosperity and Healthcare Quality on Birth Rates in Thailand (1960–2022)
 [Slide](https://www.canva.com/design/DAGXIepyZwU/a6TL85ZwmhEXNdZ71AwVLA/edit?utm_content=DAGXIepyZwU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-I used **MATLAB** to analyze the impact of economic prosperity and healthcare quality on birth rates since 1960, applying five different models: Linear Regression, Polynomial Regression (Degree2), Polynomial Regression (Degree3), Linear Regression (Power function), Linear Regression (Rational function with Logarithmic Denominator). 
+We used **MATLAB** to analyze the impact of economic prosperity and healthcare quality on birth rates since 1960, applying five different models: Linear Regression, Polynomial Regression (Degree2 and Degree3), Linear Regression (Power function), Linear Regression (Rational function with Logarithmic Denominator). 
 We find A negative correlation exists between birth rate and infant mortality rate, as improved healthcare reduces child mortality and the need for larger families. Similarly, birth rate negatively correlates with GDP per capita, as higher economic prosperity in wealthier societies often leads to lower fertility rates.
 
 ### Database Programming Laboratory  : Commart Event Redemption Management System 
